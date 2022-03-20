@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478648105982",
+    "project_id": "fir-kelompok-9f744",
+    "storage_bucket": "fir-kelompok-9f744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478648105982:android:cfe13866bc894273dd1eaf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_kelompok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478648105982-nhiv0ka1aatnqa41mk47sd19cb85ud7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDZPKYKuKyVPHlbu76IiEMKV2a8lHfbVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478648105982-nhiv0ka1aatnqa41mk47sd19cb85ud7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
